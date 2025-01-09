@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Dangotogo/Dangotogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi 👋 I'm Hillary! 
+an aspiring Software Engineer interested in technology and problem-solving.
+
+Currently learning:
+- Data structures
+- Algorithms
+- Machine Learning (ML)
+- Artificial Intelligence (AI)
+- My goal is to create impactful solutions and grow my skills daily.
+
+Achievements
+- Adjusted to independent living while managing studies and work.
+- Overcame burnout and refocused on learning.
+
+Aspirations
+- Aim to become a software engineer who builds meaningful, real-world solutions.
+- Most importantly excited to explore AI and ML innovations.
+
+I'm currently working on a small project and will upload for showcase soon 👾
+
+## Connect With Me
+Feel free to reach out if you share similar interests, want to collaborate on projects, or have advice for a motivated learner in the tech field!
+
+
