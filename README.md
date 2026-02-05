@@ -15,11 +15,6 @@ Machine Learning (ML) & Artificial Intelligence (AI)
 
 Continuously sharpening my technical and analytical skills
 
-🏆 Personal Milestones:
-Adapted to independent living while balancing work and study
-
-Overcame burnout and reignited my passion for tech and learning
-
 🚀 Goals & Aspirations:
 Become a Data Scientist who analysis meaningful, real-world data
 
@@ -28,7 +23,7 @@ Dive deeper into AI and ML to explore how intelligent systems can solve real-wor
 Contribute to open-source and collaborative tech communities
 
 🛠️ What I’m Working On:
-Currently building a small project to apply my skills—will be sharing it here soon! 👾
+Currently building a small project to apply my skills are sharing down here! 👾
 
 
 ## Connect With Me
